@@ -1,0 +1,7 @@
+ashara1,123
+ashara123,5000.0,2000.0
+Item: honda city car
+Current Savings: RM 30000.0
+Monthly Contribution: RM 3000.0
+Target Amount: RM 90000.0
+You will be able to buy your honda city car in 20.0 month(s) (2.0 year(s))
