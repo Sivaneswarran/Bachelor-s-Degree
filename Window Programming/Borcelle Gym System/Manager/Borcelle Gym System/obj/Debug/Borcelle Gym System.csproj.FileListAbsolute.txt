@@ -1,0 +1,20 @@
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Borcelle Gym System\obj\Debug\Borcelle Gym System.csproj.AssemblyReference.cache
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\bin\Debug\Borcelle Gym System.exe.config
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\bin\Debug\Borcelle Gym System.exe
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\bin\Debug\Borcelle Gym System.pdb
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle Gym System.csproj.AssemblyReference.cache
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle_Gym_System.Add_Product.resources
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle_Gym_System.General_Report.resources
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle_Gym_System.Home.resources
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle_Gym_System.Manage_Members.resources
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle_Gym_System.Manage_Products.resources
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle_Gym_System.Manage_Receptionist.resources
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle_Gym_System.Manage_Trainers.resources
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle_Gym_System.Manager_Dashhboard.resources
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle_Gym_System.Manager.resources
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle_Gym_System.Properties.Resources.resources
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle_Gym_System.Training_Sessions.resources
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle Gym System.csproj.GenerateResource.cache
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle Gym System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle Gym System.exe
+C:\Users\ASUS ROG\source\repos\Borcelle Gym System\Manager\Borcelle Gym System\obj\Debug\Borcelle Gym System.pdb
